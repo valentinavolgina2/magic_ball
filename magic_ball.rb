@@ -39,5 +39,5 @@ puts greetings.sample
 
 sleep 2
 
-puts ""
+puts
 puts answers.sample
